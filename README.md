@@ -1,26 +1,17 @@
 # lab06-proceduralFace
 
-Let's practice parameterization! We'll be starting with an oh-so-beautiful gingerbread man face that looks like this:
-![image](https://github.com/user-attachments/assets/4707eb0a-b25e-4eda-84e3-3bb336981781)
+Link: https://www.shadertoy.com/view/McccR4
 
-## Setup
-Start by forking [this shadertoy](https://www.shadertoy.com/view/XftyR8)
+## Task 1 (Surprise)
 
-## Task 1
-In the faceSDF function, add a new float parameter called SUPRISE a value between 0 and 1. Copying the way EYE_SEPARATION is used, modify the face such that the gingerbread face looks more or less surprised based on the value of SURPRISE. SURPRISE = 0 should be not very surprised, and SUPRISE = 1.0 should look very surprised. Note that the face shouldn't look broken for any value in that range!
-Changing this parameter should change at least 3 geometic attributes of the face and more than one facial feature (just eyebrows are NOT SUFFICIENT).
+[surprise.webm](https://github.com/user-attachments/assets/c8d293b9-9b80-4235-be4d-b84783175238)
 
-![image](https://github.com/user-attachments/assets/76d63b1b-f3af-456a-8031-8b8da0abe125)
+## Task 2 (Sadness)
 
-## Task 2
-Your own parameter! Create a new attribute of your choice that maps to a procedural face characteristic in the domain of [0,1]. It SHOULD NOT be a literal attribute, eg. eye-separation or mouth size, but instead a more qualitative, subjective quality that you tie to specific geometic parameters using your design sense. Have fun!
+[sadness.webm](https://github.com/user-attachments/assets/94a9f099-4024-4759-946c-fb2225f5b10c)
 
-## Extra Credit
-In the faceSDF function, create a new float parameter called SADNESS. Follow the same guidelines as outlined in Task 1.
- 
-## Submission
-- Create a pull request to this repository
-- In the README, include the names of both your team members
-- In the README, create a link to your shader toy solutions
-- Make sure your shadertoy is set to UNLISTED or PUBLIC (so we can see them!)
+## Task 3 (Melted)
 
+Gingerbread man after he has been in the oven for too long (sin-based distortion):
+
+[melted.webm](https://github.com/user-attachments/assets/f1604bc8-c8c0-4787-8369-46a189cbf767)
