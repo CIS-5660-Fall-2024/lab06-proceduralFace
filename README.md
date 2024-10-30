@@ -3,6 +3,16 @@
 Let's practice parameterization! We'll be starting with an oh-so-beautiful gingerbread man face that looks like this:
 ![image](https://github.com/user-attachments/assets/4707eb0a-b25e-4eda-84e3-3bb336981781)
 
+## Demo
+### Task 1
+[Link to the shadertoy](https://www.shadertoy.com/view/4ccyzN)
+
+### Task 2
+[Link to the shadertoy](https://www.shadertoy.com/view/Mc3cR4)
+
+### Task 3
+[Link to the shadertoy](https://www.shadertoy.com/view/4c3czN)
+
 ## Setup
 Start by forking [this shadertoy](https://www.shadertoy.com/view/XftyR8)
 
