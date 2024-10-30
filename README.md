@@ -1,5 +1,14 @@
 # lab06-proceduralFace
 
+### SUBMISSION
+
+Link:
+https://www.shadertoy.com/view/XfcczN
+
+Group:
+Jeff Mostyn (me)
+
+
 Let's practice parameterization! We'll be starting with an oh-so-beautiful gingerbread man face that looks like this:
 ![image](https://github.com/user-attachments/assets/4707eb0a-b25e-4eda-84e3-3bb336981781)
 
