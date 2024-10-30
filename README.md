@@ -1,3 +1,31 @@
+# Name: Christine Kneer
+
+[Shadertoy Link](https://www.shadertoy.com/view/4c3cRN)
+
+## Task 1: SURPRISE
+
+|![normal](https://github.com/user-attachments/assets/36779073-6483-42f3-bfb2-b1ac9e5b6443)|![0.5](https://github.com/user-attachments/assets/00e61483-fa7d-4f14-9e09-ef38fc4860dd)|![1.0](https://github.com/user-attachments/assets/fcbc7b62-0567-4282-9961-861dc707fb13)|
+|:--:|:--:|:--:|
+|*SURPRISE = 0*|*SURPRISE = 0.5*|*SURPRISE = 1.0*|
+
+
+## Task 2: SADNESS
+
+|![normal](https://github.com/user-attachments/assets/36779073-6483-42f3-bfb2-b1ac9e5b6443)|![0.5](https://github.com/user-attachments/assets/46430b53-f8fe-4c52-8abb-1104d6fff6b0)|![1.0](https://github.com/user-attachments/assets/ad890568-ef74-46d7-af5c-9c1e83de8fbe)|
+|:--:|:--:|:--:|
+|*SADNESS = 0*|*SADNESS = 0.5*|*SADNESS = 1.0*|
+
+## Task 3: MADNESS
+
+|![normal](https://github.com/user-attachments/assets/36779073-6483-42f3-bfb2-b1ac9e5b6443)|![0.5](https://github.com/user-attachments/assets/d2b680b8-d95b-40e4-a0e3-11326c5df64e)|![1.0](https://github.com/user-attachments/assets/8fdeb0a8-6494-4825-9361-df395501d15d)|
+|:--:|:--:|:--:|
+|*MADNESS = 0*|*MADNESS = 0.5*|*MADNESS = 1.0*|
+
+## BONUS IMAGE
+|![bonus](https://github.com/user-attachments/assets/d5f4d478-6035-4ab4-b791-2481c1e4ca7f)|
+|:--:|
+|*SURPRISE = 1, SADNESS = 1, MADNESS = 1*|
+
 # lab06-proceduralFace
 
 Let's practice parameterization! We'll be starting with an oh-so-beautiful gingerbread man face that looks like this:
