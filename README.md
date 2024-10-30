@@ -1,5 +1,15 @@
 # lab06-proceduralFace
 
+## Joyce and Katherine Li Shadertoys
+
+I worked with Katherine Li on this lab!
+
+### Task 1: Surprise
+https://www.shadertoy.com/view/MccyR4
+
+### Task 2: Custom parameter - Evil
+https://www.shadertoy.com/view/lfccz4
+
 Let's practice parameterization! We'll be starting with an oh-so-beautiful gingerbread man face that looks like this:
 ![image](https://github.com/user-attachments/assets/4707eb0a-b25e-4eda-84e3-3bb336981781)
 
