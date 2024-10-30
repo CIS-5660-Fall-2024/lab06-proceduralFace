@@ -1,6 +1,8 @@
 # lab06-proceduralFace
 
-## Joyce and Katherine Shadertoys
+## Joyce and Katherine Li Shadertoys
+
+I worked with Katherine Li on this lab!
 
 ### Task 1: Surprise
 https://www.shadertoy.com/view/MccyR4
