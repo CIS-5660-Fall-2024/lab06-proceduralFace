@@ -1,5 +1,15 @@
 # lab06-proceduralFace
 
+Aaron Tian
+
+Shadertoy link: https://www.shadertoy.com/view/4fccRN
+
+Adjustable paremeters: SURPRISE (task 1), CONFUSED (task 3)
+
+Task 2 was cut from lab due to shaderoy being down at beginning of class
+
+---
+
 Let's practice parameterization! We'll be starting with an oh-so-beautiful gingerbread man face that looks like this:
 ![image](https://github.com/user-attachments/assets/4707eb0a-b25e-4eda-84e3-3bb336981781)
 
