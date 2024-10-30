@@ -12,4 +12,6 @@ Link: https://www.shadertoy.com/view/McccR4
 
 ## Task 3 (Melted)
 
+Gingebread man after he has been in the oven for too long (sin-based distortion):
+
 [melted.webm](https://github.com/user-attachments/assets/f1604bc8-c8c0-4787-8369-46a189cbf767)
