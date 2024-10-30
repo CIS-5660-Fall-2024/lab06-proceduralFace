@@ -1,5 +1,22 @@
 # lab06-proceduralFace
 
+name: Crystal Jin
+
+link: https://www.shadertoy.com/view/4ctcRN
+
+Task1: Suprise
+
+<img width="613" alt="fdb67ede1fc4cbd42e0a00ddd8d5df5" src="https://github.com/user-attachments/assets/74b8fbe8-cd4a-4f5e-ad91-53bfe48f5101">
+
+Task2: Sleepy
+
+<img width="563" alt="7d9d5eb5afba439a80c03a81304537e" src="https://github.com/user-attachments/assets/e97175a0-2745-4b6b-b170-dc84bc7db6fb">
+
+Task3: Madness
+
+<img width="608" alt="c1dc40384ef05de5c5e47cce9a35b5b" src="https://github.com/user-attachments/assets/b08e0eb8-2773-4882-8572-198697e50d31">
+
+
 Let's practice parameterization! We'll be starting with an oh-so-beautiful gingerbread man face that looks like this:
 ![image](https://github.com/user-attachments/assets/4707eb0a-b25e-4eda-84e3-3bb336981781)
 
