@@ -1,5 +1,23 @@
 # lab06-proceduralFace
 
+**LIVE DEMO: [https://www.shadertoy.com/view/McdyR4](https://www.shadertoy.com/view/McdyR4)** 
+
+Task 1 Surprise Face:
+
+<p float="center">
+ <img src="https://github.com/user-attachments/assets/9c68e387-70f7-44d9-8204-262756c1b4cb" width="25%" />
+ <img src="https://github.com/user-attachments/assets/896b2cb5-0d3b-478f-9c47-7aff046411e2" width="25%" />
+  <img src="https://github.com/user-attachments/assets/307efb59-04c0-4e6e-892f-864874aa43f5" width="25%" />
+</p>
+
+Task 2 Question Face:
+
+<p float="center">
+ <img src="https://github.com/user-attachments/assets/ab848c1d-341f-44f1-8737-8acb687fb085" width="25%" />
+ <img src="https://github.com/user-attachments/assets/10f643f4-5c67-4715-8a74-3bbfc3955a8e" width="25%" />
+  <img src="https://github.com/user-attachments/assets/307efb59-04c0-4e6e-892f-864874aa43f5" width="25%" />
+</p>
+
 Let's practice parameterization! We'll be starting with an oh-so-beautiful gingerbread man face that looks like this:
 ![image](https://github.com/user-attachments/assets/4707eb0a-b25e-4eda-84e3-3bb336981781)
 
